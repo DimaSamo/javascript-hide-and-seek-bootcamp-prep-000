@@ -4,6 +4,6 @@ function getFirstSelector(selector){
 }
 
 function nestedTarget(){
-  var nestedList = querySelectorAll(#nested)
-  return nestedList.querySelectorAll(.target)
+  var nestedList = querySelectorAll(nested)
+  return nestedList.querySelectorAll(target)
 }
